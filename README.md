@@ -15,10 +15,6 @@ PBLR (cell sub-Population based Bounded Low-Rank method) is an effective tool fo
 
 (4) and also detect accurate and robust cell subpopulations automatically, shedding light its flexibility and generality for scRNA-seq data analysis. 
 
-Systems Requirements
---------------------
-This Package has been tested using MATLAB 2018a on Mac OS/64-bit Windows. 
-
 
 Usage
 -----
