@@ -1,5 +1,5 @@
 # PBLR
-An accurate tool for imputing scRNA-seq data by considering cell heterogeneity and prior expression level of dropouts
+An effective tool for imputing scRNA-seq data by considering cell heterogeneity and prior expression level of dropouts
 ===============
 
 Overview
