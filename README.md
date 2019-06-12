@@ -6,7 +6,7 @@ Overview
 --------
 
 PBLR (cell sub-Population based Bounded Low-Rank method) is an effective tool for scRNA-seq data imputation, which can
---------
+----
 (1) recover transcriptomic level and dynamics masked by dropouts, 
 
 (2) improve low-dimensional representation, 
