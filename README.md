@@ -18,13 +18,12 @@ PBLR (cell sub-Population based Bounded Low-Rank method) is an effective tool fo
 
 Usage
 -----
+Download the source codes and unzip the MATLAB package. Change the current directory in MATLAB to the folder containing the scripts.
 
-Unzip the package. Change the current directory in Matlab to the folder containing the scripts.
-
-PBLR_demo.m -- an example run of PBLR on a synthetic dataset
-
-Please refer to PBLR_demo.m for instructions on how to use this code.
+We provide an example with MATLAB live scripts to show how to use PBLR. Please see the /Examples folder and the following details.
 Input Data are gene expression data matrix (rows are genes and columns are cells). 
 
+Help
+-----
 If you have any problem or question using the package please contact zhanglihua@amss.ac.cn
 
